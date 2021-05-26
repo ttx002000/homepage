@@ -2,8 +2,8 @@ clear all;
 hold off;
 N1=40;
 k_path=zeros(3,N1);
-m=23;
-n=22;%make sure that m>n
+m=26;
+n=25;%make sure that m>n
 for ja=1:N1
 k_path(:,ja)=(m*[1;0;0]+n*[1/2;3^(1/2)/2;0])*ja/(N1-1)*4*pi/(3*(m^2+n^2+m*n));
 end
