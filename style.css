@@ -47,6 +47,17 @@ nav{
     
 
 }
+
+.pblue{
+    background-color: rgba(0, 0, 0, 0.493);
+   padding-top:10px;
+   padding-bottom: 10px;
+    text-align:center;
+    color: blue;
+}
+
+
+
 main{
     
     height:700px;
