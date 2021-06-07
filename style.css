@@ -17,18 +17,17 @@ html{
     background-position: center;
 }
 
-.body3{
+.body4{
     background-color:darkgray;
-    background-image: url(images/background3.jpg);
+    background-image: url(images/background4.jpg);
     background-size: cover;
   
     background-position: center;
 }
 
-
-.body4{
+.body3{
     background-color:darkgray;
-    background-image: url(images/background4.jpg);
+    background-image: url(images/background3.jpg);
     background-size: cover;
   
     background-position: center;
@@ -39,12 +38,6 @@ html{
     width:1024px;
 
 }
-
-
-
-
-
-
 header{
     
     height:118px;
